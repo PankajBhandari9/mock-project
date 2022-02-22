@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/mock-project/static/js/main.e3cceee7.js",
+    "static/media/11.png": "/mock-project/static/media/11.8b62d9d1a29283f0f1f5.png",
+    "index.html": "/mock-project/index.html",
+    "main.e3cceee7.js.map": "/mock-project/static/js/main.e3cceee7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e3cceee7.js"
+  ]
+}
